@@ -1,0 +1,154 @@
+body {
+  background-color: #AAAAAA;
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+p::first-letter {
+  text-transform: uppercase;
+  font-size: xx-large;
+  color: #1A472A;
+}
+
+h1 {
+font-family: sans-serif;
+}
+
+.house{
+font-weight:bold;
+}
+
+
+header{
+  background-color: #AAAAAA;
+}
+h3 {
+color: #1a472a;
+text-align: center;
+}
+
+body {
+  background-color: #aaa5a5;
+}
+p {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p::first-letter {
+text-transform: uppercase;
+font-size: xx-large;
+color: #1A472A;
+}
+
+body {
+background-color: #AAAAAA;
+}
+p {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p::first-letter {
+text-transform: uppercase;
+font-size: xx-large;
+color: #1A472A;
+}
+h1 {
+font-family: sans-serif;
+}
+.house{
+font-weight:bold;
+}
+header{
+background-color: #AAAAAA;
+}
+h3 {
+color: #1a472a;
+text-align: center;
+}
+body {
+background-color: #aaa5a5;
+}
+p {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+}
+p::first-letter {
+text-transform: uppercase;
+font-size: xx-large;
+color: #1A472A;
+}
+:root {
+--lightgreen: #2A623D;
+--darkgreen: #1A472A;
+--gray: #5D5D5D;
+--lightgray: #AAAAAA;
+--black: #000000;
+}
+
+html {
+background-color: var(--lightgray);
+}
+
+h1 {
+color: var(--darkgreen);
+font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+color: var(--lightgreen);
+}
+
+p {
+color: var(--black);
+}
+
+img {
+max-width: 150px;
+max-height: 130px;
+}
+
+.smalltext {
+font-size: xx-small;
+}
+
+ul {
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover:not(.active) {
+background-color: #111;
+}
+
+.active {
+background-color: #1a472a;;
+}
+
+html { scroll-behavior: smooth; }
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
