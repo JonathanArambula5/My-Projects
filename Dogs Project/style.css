@@ -1,0 +1,87 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 18px;
+  }
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 34px;
+  }
+  
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 44px;
+  }
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 14px;
+}
+
+html {
+    background-color: rgb(145, 180, 199);
+    background-image: url('https://cdn.wallpapersafari.com/13/14/JvntrF.jpg');
+    background-repeat: no-repeat;
+    height: 900px;
+    background-position: center;
+    background-size: cover;
+}
+
+img {
+    width: 250px;
+    height: auto;
+    float: center;
+    border-radius: 25px;
+}
+
+a {
+    color: purple;
+    text-align: center;
+}
+
+ul.some_class{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+list-style-type: none;
+text-align: center;
+margin: -0.99%;
+padding: 0;
+overflow: hidden;
+background-color: rgb(152, 214, 237);
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+li.some_class{
+float: left;
+}
+  
+li a {
+display: block;
+color: rgb(0, 0, 0);
+font-weight: bold;
+text-align: center;
+padding: 14px;
+text-decoration: none;
+}
+            
+li a:hover:not(.active) {
+background-color: rgb(83, 61, 211);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+            
+html { scroll-behavior: smooth; }
+            
+.center {
+margin: auto;
+width: 30%;
+padding: 10px;
+}
