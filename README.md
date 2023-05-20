@@ -12,6 +12,10 @@ Coding Quiz: A quiz created to test someones coding knowledge, there is a timer 
 
 Countdown Timer: A timer that counts down.
 
+Dogs Project: A website all about dogs. The website includes a background as an image, music & a section for games.
+
+Pokemon: A wepbage made for "Carl" and about his Pokemon. The website describes the creatures' skill set and includes games and music as well. Background images and colored nav bars are also featured to match the theme as well.
+
 Early Website Test: There used to be a better version of this website with images and more, but it got lost, so this is the early version.
 
 Gif Generator: Generates gifs with a search bar.
